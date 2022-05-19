@@ -4,6 +4,8 @@
 #include <time.h>
 #include <string.h>
 
+// 8 SORUNUN TAMAMINI YAPTIKÇA GÜNCELLEYECEĞİM.
+
 // 1- Klavyeden -1 girilene kadar verilen tek sayıları tek bağlı doğrusal bir listenin 
 // başına verilen çift sayıları ise listenin sonuna ekleyen programı yazınız.
 
